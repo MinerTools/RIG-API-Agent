@@ -1,4 +1,4 @@
-# API-Agent
+# API-Agent - Mining RIG Monitoring
 
 Local API designed for MTools to send needed informations to monitor RIG (supports Phoenix Miner (maybe out of date) and mainly GMiner)
 
